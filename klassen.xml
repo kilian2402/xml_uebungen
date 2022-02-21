@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schule name="BHAK/BHAS Zell am See">
+    <schulleitung>
+        <person mail="direktor@hakzell.at" vorname="Thomas" nachname="Hauer"/>
+    </schulleitung>
+    <klassen>
+        <klasse name="3bhk">
+            <person vorname="Cecilia" nachname="Wimmer" />
+            <person vorname="Melissa" nachname="Rummer" />
+        
+
+        </klasse>
+
+        <klasse name="2ahk">
+            <person vorname="Max" nachname="Muster" />
+        </klasse>
+    </klassen>
+</schule>
+
